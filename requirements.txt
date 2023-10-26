@@ -1,5 +1,4 @@
 Flask==3.0.0
-random
-numpy
-tensorflow
-flask_ngrok
+numpy==1.24.3
+tensorflow==2.14.0
+flask_ngrok==0.0.25
